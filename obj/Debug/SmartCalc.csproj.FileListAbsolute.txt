@@ -1,0 +1,10 @@
+c:\users\mastermind\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Form1.resources
+c:\users\mastermind\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Properties.Resources.resources
+c:\users\mastermind\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.csproj.GenerateResource.Cache
+C:\Users\MasterMind\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.csprojResolveAssemblyReference.cache
+C:\Users\MasterMind\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Draw.resources
+C:\Users\MasterMind\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\bin\Debug\SmartCalc2.exe.config
+C:\Users\MasterMind\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\bin\Debug\SmartCalc2.exe
+C:\Users\MasterMind\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\bin\Debug\SmartCalc2.pdb
+C:\Users\MasterMind\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc2.exe
+C:\Users\MasterMind\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc2.pdb
